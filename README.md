@@ -1,2 +1,3 @@
 # hello-world
-the humble beginnings of my github quest
+Hello! My name is Bryan Zhang, a compsci student at Maryland.
+This is the humble beginnings of my github quest
